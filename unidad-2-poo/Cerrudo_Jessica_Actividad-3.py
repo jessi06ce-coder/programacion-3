@@ -119,3 +119,11 @@ Otra mejora podria ser que no solo no permita valores menores a cero, sino que n
 500, 1560, 9824213, que actualmente si lo aceptaria el programa. Segun la IA, una solucion a esto sería 
 corrigiendo el if de la validacion de notas: "if nota < 0 or nota > 10:"
 """
+
+
+
+""" 
+
+11) __init__ crea y carga los datos del objeto, mientras que self indica a qué objeto pertenecen esos datos.
+
+"""
